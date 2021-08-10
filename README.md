@@ -98,8 +98,8 @@ Note: Submit Button is not functional at this point of time where the app will r
 
 ## Meet the Team 
 Team Congruent:
-  1. Swaraj Gupta (swaraj.gupta217@gmail.com)
-  2. Shiv Jaiswal (shivjaiswal2000@gmail.com)
-  3. Mayank Goyal (goyalmayank522@gmail.com)
+  1. Mayank Goyal (goyalmayank522@gmail.com)
+  2. Swaraj Gupta (swaraj.gupta217@gmail.com)
+  3. Shiv Jaiswal (shivjaiswal2000@gmail.com)
 
 If opening the files gives you any difficulty or if you have any kind of suggestions, please let us know.
