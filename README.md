@@ -32,7 +32,7 @@ To tackle this problem, we proposed the following method -
 ## Model 
 #### Siamese Model Architecture
 <p align="center">
-  <img width="400" height="400" src="https://media.github.ecodesamsung.com/user/9381/files/aa341500-bfc3-11eb-94a6-bf8cb21432a2">
+  <img width="400" height="400" src="https://i.imgur.com/aQdOIum.png">
 </p>
 
 Siamese networks are a special class of neural network:
